@@ -12,7 +12,7 @@
  - pick a random word from the list, 
  - verify that they are in the dictionary.
  
- The other classnamed Words is used to 
+ The other class named Words is used to 
  - pay attention to the game rules, 
  - monitor the game status, 
  - manage user login and logout.
