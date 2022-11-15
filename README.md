@@ -17,5 +17,5 @@
  - monitor the game status, 
  - manage user login and logout.
 
-### Output Example
+# Output Example
 ![w](https://user-images.githubusercontent.com/102357822/197335102-f1e98f15-596a-4592-b31d-f57c4f274974.png)
