@@ -1,10 +1,10 @@
 # Guess-Game
   Program that, if the guess is wrong, shows the user how many letters match the hidden word and how many of those letters are in the correct place. 
 
-### How To Play
+# How To Play
   Each turn the player will guess a word. If the guess is correct, the computer will report how many guesses it has made and the program will terminate. If the guess is wrong, the computer will tell you how many letters match the hidden word and the guess, and how many of those letters are in the correct spot. The player will then make the next guess. If the user enters the hint code 'xxxxx' (hint word: secret word) the program should display the secret word. Using the hint code should count as a guess and should not terminate the program.
 
-### Project Description
+# Project Description
  This program is coded using two classes. 
  
  The class named Dictionary is used to 
